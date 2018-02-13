@@ -1,6 +1,6 @@
 package learn1;
 
-public class Feitu1 {
+public class Feitu_addtwoNumber {
 	/**
 	 * Definition for singly-linked list.
 	 * public class ListNode {
