@@ -46,7 +46,7 @@ public class LongSubstringNorep{
 	return ans;
 	}
 	public static void main(String[] args) {
-		String str="qwwke";
+		String str="abcabde";
 		// TODO Auto-generated method stub
 		LongSubstringNorep s =new LongSubstringNorep();
 		
